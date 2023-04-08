@@ -1,0 +1,21 @@
+body{
+    background-image: url('https://th.bing.com/th/id/OIP.poD_DlucybCUIYsTZUq_pQHaEs?w=265&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7.jpg');
+}
+#form{
+    background-color: rgba(89, 209, 79, 0.906);
+    width: 50%;
+    margin: 120px auto;
+    padding: 50px;
+    box-shadow: 10px 10px 5px rgba(156, 146, 35, 0.737);
+    border-radius: 6px;  
+    
+}
+h1{
+    color: azure;
+}
+#sub{
+    color: rgb(174, 203, 30);
+    
+    font-size: large;
+
+}
